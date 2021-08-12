@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kkantorowicz
+- 👀 I’m interested in Sunsets, Candlelit dinners, Long walks on the beach
+- 🌱 I’m currently learning JS, HTML, CSS, Angular (soon - hopefully)
+- 💞️ I’m looking to collaborate on cool looking web stuff when I get there
+- 📫 How to reach me: Hands... Holding haands... Reaching out... Touching me... Touching you.... 
